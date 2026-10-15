@@ -1,2 +1,2 @@
-# Ishaya-repository
+# Ishaya-portfolio
 Professional electrical building services design portfolio showcasing residential electrical layouts, load analysis, distribution board schedules, and lightning protection using AutoCAD.
